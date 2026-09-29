@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+pytest-mock
+requests
+httpx
+fastapi
+uvicorn
+pydantic
+python-dotenv
+rich
